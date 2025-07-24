@@ -18,7 +18,7 @@ This project was created during my time as an intern for the COH. I was inspired
 ```
 2. Clone the repository:
 ```powershell
-    git clone https//github.com/butterbanes/auto-ciscat-report.git
+    git clone https://github.com/butterbanes/auto-ciscat-report.git
 ```
 
 ## Usage
