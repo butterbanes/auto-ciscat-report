@@ -20,6 +20,7 @@ This project was created during my time as an intern for the COH. I was inspired
 ```powershell
     git clone https://github.com/butterbanes/auto-ciscat-report.git
 ```
+3. Unzip the .exe from the zip folder
 
 ## Usage
 To run the project, use the following command:
